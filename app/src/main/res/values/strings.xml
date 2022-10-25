@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tarea_recipes</string>
+    <string name="food_type_title">Seleccione un tipo de comida</string>
+</resources>
