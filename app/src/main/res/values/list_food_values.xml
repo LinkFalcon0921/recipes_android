@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="food_list">
+        <item>Desayuno</item>
+        <item>Bebidas</item>
+        <item>Plato del mediodia</item>
+        <item>Postre</item>
+        <item>Comida rapida</item>
+    </string-array>
+</resources>
