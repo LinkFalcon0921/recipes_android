@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="food_list">
+    <string-array name="comida_lista">
         <item>Desayuno</item>
         <item>Bebidas</item>
         <item>Plato del mediodia</item>
         <item>Postre</item>
         <item>Comida rapida</item>
+    </string-array>
+
+    <string-array name="desayuno_lista">
+        <item>Mangu</item>
+        <item>Panqueques</item>
+        <item>Conflake</item>
+        <item>Revoltillo de huevos</item>
+    </string-array>
+
+    <string-array name="comida_rapida_lista">
+        <item>Hamburguesa</item>
+        <item>Papas fritas</item>
+        <item>Hot dogs</item>
+    </string-array>
+
+    <string-array name="bebidas_lista">
+        <item>Jugos de naranja</item>
+        <item>Jugo de guayaba</item>
+        <item>Batida de fresas</item>
+        <item>Batida de mango</item>
+    </string-array>
+
+    <string-array name="mediodia_lista">
+        <item>Pasteles en hoja</item>
+        <item>Quipe</item>
+        <item>Arroz</item>
+    </string-array>
+
+    <string-array name="postres_lista">
+        <item>Pastel de chocolate</item>
+        <item>Helado</item>
+        <item>Arroz con leche</item>
+        <item>Arepa</item>
     </string-array>
 </resources>

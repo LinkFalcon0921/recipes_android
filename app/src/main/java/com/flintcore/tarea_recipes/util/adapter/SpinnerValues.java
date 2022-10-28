@@ -3,6 +3,7 @@ package com.flintcore.tarea_recipes.util.adapter;
 import android.content.Context;
 import android.widget.ArrayAdapter;
 
+import androidx.annotation.ArrayRes;
 import androidx.annotation.LayoutRes;
 
 import com.flintcore.tarea_recipes.R;
@@ -17,8 +18,8 @@ public class SpinnerValues {
     public SpinnerValues(Context context, @LayoutRes int resources, List<CharSequence> list) {
         this.adapter = new ArrayAdapter<>(context, resources);
     }
-    public SpinnerValues(Context context) {
-        this.adapter = ArrayAdapter.createFromResource(context, R.array.food_list, android.R.layout.simple_spinner_item);
+    public SpinnerValues(Context context, @ArrayRes int listId) {
+        this.adapter = ArrayAdapter.createFromResource(context, listId, android.R.layout.simple_spinner_item);
         this.adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
     }
 

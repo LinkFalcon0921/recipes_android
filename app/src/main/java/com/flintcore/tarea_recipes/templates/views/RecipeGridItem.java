@@ -1,52 +1,68 @@
 package com.flintcore.tarea_recipes.templates.views;
 
 import android.content.Context;
-import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.BaseAdapter;
 import android.widget.ImageView;
-import android.widget.RelativeLayout;
+import android.widget.LinearLayout;
 import android.widget.TextView;
-
-import androidx.annotation.NonNull;
-import androidx.annotation.Nullable;
-import androidx.fragment.app.Fragment;
 
 import com.flintcore.tarea_recipes.R;
 import com.flintcore.tarea_recipes.templates.data.Food;
 
-public class RecipeGridItem extends Fragment {
+import java.util.List;
+import java.util.Objects;
+
+//Adapter
+public class RecipeGridItem extends BaseAdapter {
     private final Context context;
 
-    private TextView recipe_name;
+    private final List<Integer> images;
 
-    private ImageView recipe_image;
+    private final List<Food> foods;
 
-    private final Food food;
+    private static LayoutInflater INFLATER;
 
-    public RecipeGridItem(Context context, Food food) {
+    public RecipeGridItem(Context context, List<Integer> images, List<Food> foods) {
         this.context = context;
-        this.food = food;
+        if (Objects.isNull(INFLATER)) {
+            this.INFLATER = (LayoutInflater) this.context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
+        }
+        this.foods = foods;
+        this.images = images;
     }
 
     @Override
-    public void onCreate(@Nullable Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
+    public int getCount() {
+        return this.images.size();
     }
 
-    @Nullable
     @Override
-    public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container,
-                             @Nullable Bundle savedInstanceState) {
-        View inflatedView = inflater.inflate(R.layout.item_preview, container, false);
+    public Object getItem(int i) {
+        return this.images.get(i);
+    }
 
-        this.recipe_image = inflatedView.findViewById(R.id.image_recipe);
-        this.recipe_image.setImageResource(this.food.getImageRef());
+    @Override
+    public long getItemId(int i) {
+        return i;
+    }
 
-        this.recipe_name = inflatedView.findViewById(R.id.name_recipe);
-        this.recipe_name.setText(this.food.getName());
+    @Override
+    public View getView(int index, View view, ViewGroup viewGroup) {
+//        if (Objects.nonNull(view)) {
+//            view = INFLATER.inflate(R.layout.item_preview, null);
+//        }
 
-        return inflatedView;
+        final View vt = INFLATER.inflate(R.layout.item_preview, null);
+
+        ImageView imagePreview = vt.findViewById(R.id.image_recipe);
+        TextView textRecipe = vt.findViewById(R.id.name_recipe);
+
+        imagePreview.setImageResource(this.images.get(index));
+        textRecipe.setText(this.foods.get(index).getName());
+
+        return vt;
     }
 }

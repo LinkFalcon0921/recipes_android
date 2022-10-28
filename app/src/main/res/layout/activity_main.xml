@@ -4,9 +4,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/border_simple_body"
     tools:context=".MainActivity">
 
     <LinearLayout
+        android:id="@+id/body_activity"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
@@ -23,21 +25,29 @@
                 android:id="@+id/food_selector_title"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/food_type_title"
-                android:textSize="@dimen/defaulr_title_size"
                 android:layout_marginHorizontal="@dimen/default_horizontal_margin"
                 android:layout_marginBottom="10dp"
-                android:gravity="center"/>
+                android:gravity="center"
+                android:text="@string/food_type_title"
+                android:textSize="@dimen/default_title_size" />
 
             <Spinner
                 android:id="@+id/food_selector"
-                android:layout_below="@id/food_selector_title"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                />
+                android:minHeight="30dp"
+                android:layout_below="@id/food_selector_title"
+                android:layout_marginHorizontal="@dimen/spinner_horizontal_margin"
+                android:background="@drawable/border_simple" />
 
         </RelativeLayout>
 
+        <FrameLayout
+            android:id="@+id/manager_grid_recipes"
+            android:layout_marginTop="25dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/border_simple"/>
 
     </LinearLayout>
 

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mangu_description">
+        Lo primero que debes hacer para realizar el mangú dominicano es poner las cuatro tazas
+        de agua a hervir junto con la sal. Mientras hierve, retira la piel de los plátanos verdes y
+        córtalos por la mitad. Luego, incorpóralos al agua hirviendo y deja que se cocinen durante 10 minutos.
+
+        Una vez cocidos, retíralos del fuego y tríturalos con un mortero. Conforme los trituras
+        agrega el agua fría poco a poco y la mantequilla.
+        Luego, pon a calentar el aceite vegetal a fuego medio y fríe la cebolla cortada en aros cuando esté caliente.
+    </string>
+    <string name="panqueques_description">
+        Hacer la receta de panqueques es súper fácil. Primero, reúne todos los ingredientes.
+        Si no tienes harina leudante o preparada, que es harina de trigo que ya incluye
+        levadura (también se llama harina de repostería),
+        puedes usar harina de trigo normal y añadir una cucharadita de levadura química
+        en polvo (polvo de hornear).
+
+        Coloca la harina en un bol y añade el huevo y la leche.
+        Mezcla bien hasta que se integren estos ingredientes y no queden casi grumos.
+
+        Para terminar de hacer la masa de los panqueques caseros,
+        agrega un chorrito de aceite y mezcla bien.
+        Verás que el aceite hace que se terminen de disolver los grumos de harina y
+        quede una masa lisa y homogénea.
+
+        Para hacer los panqueques, calienta una sartén a fuego medio-bajo con un poquito
+        de aceite omantequilla. Cuando la sartén esté caliente, añade una cucharada de mezcla
+        y déjala al fuego hasta que empiecen a salir burbujas en la superficie,
+        entonces dale la vuelta y cocina por el otro lado.
+
+        Para servir la receta de panqueques súper fáciles de hacer,
+        añade un poquito de mantequilla y miel y a disfrutar.
+        Si quieres comerlos con algo salado, puedes servirlos con bacon y
+        huevos fritos o un revuelto con jamón.
+    </string>
+    <string name="conflake_description">
+        En el plato agregar el cereal de su gusto.
+
+        Verter la leche en el recipiente.
+
+        Se puede acompañar con plátano o alguna fruta de su elección.
+    </string>
+    <string name="revoltillo_huevo_description">
+        Calentar una cucharada de aceite en una sartén grande a fuego medio.
+
+        Añade el tomate, el pimiento, la cebolla, y cocina y
+        remueve hasta que los vegetales estén bien cocidos.
+
+        Agregar los huevos, revolver hasta que los huevos se cuajen.
+        Sazonar con sal y pimienta al gusto. Adorne con perejil.
+
+        Sirve con tostadas para un desayuno ligero, o con mangú.
+    </string>
+
+    <string name="hamburguesa_description">
+        Pedir la carne picada al momento en carnicería, o picar en casa adecuadamente,
+        dejando una buena textura. Se puede mezclar la carne de ternera con un poco de cerdo.
+        Añadir la yema de huevo opcional y un poco de beicon muy picado, salpimentar,
+        mezclar y formar la hamburguesa.
+
+        Cortar el pan por la mitad, untar con mantequilla por dentro y tostar
+        ligeramente a la plancha. Colocar una base de lechuga u otras hojas verdes,
+        y una o varias rodajas de tomate.
+
+        Calentar a fuego medio-fuerte la plancha, untar ligeramente con aceite la hamburguesa reposada y
+        cocinar sin tocar durante 2-3 minutos. Dar la vuelta, poner una loncha o más de queso,
+        y cocinar unos 3-4 minutos más. Retirar y disponer sobre el tomate. Añadir más beicon u
+        otros complementos (pepinillos, cebolla caramelizada…), untar con la salsa elegida la
+        parte superior del pan y cerrar.
+    </string>
+    <string name="papas_fritas_description">
+        Lavar bien las papas, pelarlas y remojarlas en una olla de agua caliente durante 10 minutos,
+        luego escurrirlas y lleva a la heladera hasta que estén frías.
+
+        Despues de unas dos horas sacar las papas de la heladera y, sobre una tabla limpia,
+        cortarlas en bastones del grosor deseado.
+
+        En una sartén profunda calentar abundante aceite y cuando esté formando "venas"
+        echar las papas separadas entre sí.
+
+        No hace falta revolver, simplemente dejar que se cocinen y retirarlas con espumadera cuando
+        comienzan a tomar color dorado. Sacarlas antes de que se doren por completo y
+        colocarlas en una rejilla cubierta con papel de cocina para que absorba el aceite sobrante.
+
+        Se dejan enfriar nuevamente y luego se vuelven a freir en aceite a 180 grados.
+    </string>
+    <string name="hot_dogs_description">
+        Para elaborar estos increíbles perritos calientes debes alistar todos los ingredientes,
+        puedes utilizar salchichas tipo frankfurt o cualquier de tu preferencia,
+        vigila que sean del tamaño del pan.
+
+        Picar la cebolla en cuadros pequeños y agregarle agua muy caliente.
+        Esto ayudará a que la cebolla no esté tan picante.
+
+        Lavar y picar el tomate en cuadros del mismo tamaño que la cebolla.
+        Luego, escurrir la cebolla y mezclar con el tomate, agregar sal y pimienta al gusto.
+
+        En una sartén con un poco de agua colocamos las salchichas y
+        las cocinamos durante 5 minutos a fuego medio.
+
+        Colocar las salchichas en el pan y cubrir con el picadillo de cebolla y tomate.
+
+        Cubrir con las papas tipo cerilla y agregar las salsas al gusto.
+        Esto dará un toque delicioso a tus hot dogs. Si no encuentras este tipo de patatas,
+        no te preocupes, puedes usar cualquier tipo de patata frita de bolsa, lo único que
+        tienes que hacer es triturarlas bien.
+    </string>
+
+    <string name="jugo_description">
+        Comenzaremos pelando las %s y procedemos a cortarlas en cubitos pequeños.
+
+        Pasado unos 20 minutos llevamos %s a una licuadora, donde añadiremos
+        el zumo de limón, los cubos de hielo y si es necesario un poquito de azúcar.
+
+        Y listo nuestro jugo de pera esta listo para refrescar a cualquiera.
+        Adorna con algunos trozos de %s para darle mas estilo.
+    </string>
+    <string name="batida_description">
+        Mezcla todos los ingredientes en una licuadora suficientemente potente.
+
+        Sirve de inmediato.
+    </string>
+
+    <string name="pasteles_hoja_description">
+        Para preparar la masa, en un bowl, combina, la yuca con el aceite, el sazon, la Leche Evaporada, el azúcar y el agrio de naranja.
+
+        Forma los pasteles con el relleno, las aceitunas y las pasas.
+        Hierve por 30 minutos en abundante agua caliente con sal. Pasado el tiempo retira del agua, y sirve.
+    </string>
+    <string name="quipe_description">
+        Ponga el trigo en un recipiente y agregue 3 tazas de agua, cubra y deje reposar durante 4 horas.
+        Remueve un par de veces mientras reposa. Escurra el bulgur y transfiéralo a un tazón grande.
+        Agregue la cebolla, la menta y la albahaca a un procesador de alimentos y pulse hasta que se convierta en una pasta gruesa.
+        Agregue la mitad de su trigo a la pasta en el procesador de alimentos y procese hasta que se forme una masa suave.
+        En un tazón grande, mezcle el resto del trigo y la mezcla de masa suave. Agregue 1/3 de libra de carne molida.
+        Condimentar con sal y pimienta. Con las manos, mezcle el 1/3 de libra de carne con la mezcla de trigo hasta que se incorpore bien.
+        Tome una cucharada grande de la mezcla de bulgur y apriete para compactar en la palma de las manos.
+        Usando el dorso de una cuchara, presione la mezcla de bulgur para hacer un agujero de forma ovalada.
+
+        Agrega 2 cucharaditas del picadillo al centro del óvalo. Cierra la abertura del quipe y dale forma de balón de fútbol.
+        Asegúrese de encerrar completamente el relleno para evitar salpicaduras al freír. Transfiera el quipe a una bandeja para hornear.
+        Repita con la mezcla restante de bulgur y carne de res.
+        Enfríe en el refrigerador hasta que esté firme, aproximadamente 1 hora.
+        Caliente el aceite en una olla profunda hasta que esté caliente, 350°F.
+        Freír los quipes en tandas hasta que estén dorados, unos 3 minutos.
+        Transfiera a una bandeja forrada con toallas de papel para drenar.
+        Servir tibio.
+    </string>
+    <string name="arroz_description">
+        Añadimos dos cucharadas de aceite por cada taza de arroz que vayáis a utilizar. El aceite es el ingrediente que ayudará a que no se pegue el arroz.
+        Calentamos la cazuela y echamos el aceite, en cuanto veamos que está caliente añadimos el arroz y removemos durante un minuto aproximadamente a temperatura media para tostar el arroz.
+        Vertemos 2 tazas de agua y media por cada taza de arroz, dejamos a fuego fuerte durante 4 minutos hasta que pille mucha temperatura y empiece a hacer borbotones.
+
+        Añadimos sal y luego bajamos a fuego medio unos 12 minutos con la tapa de la cazuela puesta.
+        Cuando veamos que ya casi no hay agua y empiezan a quedar pequeños agujeros entre los granos de arroz, bajamos la temperatura al mínimo tres minutos o simplemente apagamos el fuego.
+        Dejamos que repose con la tapa puesta o con un trapo de algodón durante unos 5 minutos. Mientras reposa, el arroz absorberá el resto de agua y te debería quedar en su punto y los granos separados. Podemos ir probando el arroz en el reposo para ver como está quedando un poquito duro.
+    </string>
+
+    <string name="pastel_chocolate_description">
+        En un recipiente combinar harina, azúcar, cocoa, polvo hornear, bicarbonato y sal. Revolver a baja velocidad con la batidora.
+        Agregar leche, mantequilla y vainilla. Batir con batidora a velocidad baja, luego batir 2 minutos a velocidad media, agregar huevo y batir 2 minutos más. Poner en un molde redondo de 22 cms. de diámetro, engrasado y enharinado.
+        Hornear a 180 °C por 30 o 35 minutos. Sacar del horno y enfriar en una rejilla 10 minutos. Sacar del molde y dejar enfriar completamente.
+
+        Para hacer el glaseado: derretir chocolate y mantequilla a fuego suave, remover del fuego y agregar el azúcar glass y el agua caliente moviendo siempre. Si es necesario agregar mas de agua para tener la consistencia de glaseado
+        Glasear el pastel y dejar escurrir por los lados a cubrirlo totalmente.
+    </string>
+    <string name="helado_description">
+Monta la crema, que tiene que estar muy frío, con una batidora eléctrica.
+
+Una vez montada incorpora la vainilla y la leche condensada.
+
+Remueve con una espátula con movimientos envolventes para que no se baje la crema.
+
+Cuando la mezcla sea homogénea y cremosa, viértela en un recipiente.
+
+Deja en el congelador durante 5 o 6 horas antes de servir.
+
+Cuando esté congelado, ya está listo para comer.
+    </string>
+    <string name="arroz_leche_description">
+        Cocemos el arroz
+
+        Pon en un cazo al fuego con abundante agua y cuando comience a hervir echa el arroz.
+        Déjalo 10 minutos y apaga el fuego.
+
+        Infusionamos la leche
+
+        En otro cazo pon a fuego lento la leche y el azúcar dándole vueltas para que se disuelva.
+        Cuando la leche comience a hervir, añádele el arroz escurrido, el azúcar la canela en rama y la piel de limón cortada finamente.
+        Déjalo hervir suavemente durante 15 minutos
+    </string>
+    <string name="arepa_description">
+        Ponemos en un bol la harina y la sal y vamos añadiendo el agua hasta que se forme una masa lisa que no se pegue a las manos.
+        La cantidad de agua que damos dependerá del tipo de harina, así que es mejor hacerlo de esta forma.
+        Cuando la masa esté elástica, ya está lista. Puedes sustituir parte del agua por un poco de leche.
+
+        Se forman bolas medianas (como pelotas de tenis) y se aplastan hasta que tengan unos 2 cm de grosor.
+        En una sartén con un poquito de aceite vamos cocinando las arepas por los dos lados a fuego más bien suave para que se hagan bien por dentro, hasta que vemos que se despegan solas de la plancha.
+        Se pueden terminar en el horno para que se abomben un poco y queden algo más huecas por dentro.
+
+        Se meten con calor arriba y abajo a 180º unos 10 minutos.
+        Las arepas también pueden freírse en aceite y es curioso porque apenas absorben grasa.
+        Se fríen hasta que estén doradas y se rellenan al momento.
+    </string>
+
+
+</resources>
